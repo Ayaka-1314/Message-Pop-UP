@@ -7,6 +7,8 @@ https://img.shields.io/badge/python-3.6+-blue?style=flat-square
 https://img.shields.io/badge/WeChat-%E5%81%9C%E6%9B%B4-red?style=flat-square
 https://img.shields.io/badge/platform-Windows%252010%252B-lightgrey?style=flat-square
 
+<details> <summary>English Version</summary>
+   
 ## 功能特点
 
 - 🎨 多主题支持：明亮模式、暗黑模式、黑金模式
