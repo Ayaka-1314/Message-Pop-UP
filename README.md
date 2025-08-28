@@ -2,12 +2,13 @@
 
 一个基于Python的桌面消息弹窗模拟程序，支持多种主题风格和消息类型，提供流畅的动画效果
 
-https://img.shields.io/badge/version-Beta-yellow?style=flat-square
-https://img.shields.io/badge/python-3.6+-blue?style=flat-square
-https://img.shields.io/badge/WeChat-%E5%81%9C%E6%9B%B4-red?style=flat-square
-https://img.shields.io/badge/platform-Windows%252010%252B-lightgrey?style=flat-square
+![Version](https://img.shields.io/badge/version-Beta-yellow?style=flat-square)
+![Python](https://img.shields.io/badge/python-3.6+-blue?style=flat-square)
+![WeChat](https://img.shields.io/badge/WeChat-停更-red?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%2B-lightgrey?style=flat-square)
 
-<details> <summary>English Version</summary>
+<details>
+<summary>English Version</summary>
    
 ## 功能特点
 
