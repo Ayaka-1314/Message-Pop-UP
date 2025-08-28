@@ -7,8 +7,6 @@
 ![WeChat](https://img.shields.io/badge/WeChat-停更-red?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2B-lightgrey?style=flat-square)
 
-<details>
-<summary>English Version</summary>
    
 ## 功能特点
 
